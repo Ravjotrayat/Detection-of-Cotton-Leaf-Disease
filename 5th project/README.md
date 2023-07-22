@@ -1,10 +1,15 @@
 # Detection-of-Cotton-Leaf-Disease 
 
-Requirements : 
+# Requirements : 
 
-              matplotlib
-              numpy
-              notebook
-              tensorflow-addons
-              tensorflow-model-optimization
-              tensorflow==2.5
+matplotlib
+
+numpy
+
+notebook
+
+tensorflow-addons
+
+tensorflow-model-optimization
+
+tensorflow==2.5
