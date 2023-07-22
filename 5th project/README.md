@@ -2,14 +2,14 @@
 
 # Requirements : 
 
-matplotlib
+Matplotlib
 
-numpy
+Numpy
 
-notebook
+Jupyter notebook
 
-tensorflow-addons
+Tensorflow-addons
 
-tensorflow-model-optimization
+Tensorflow-model-optimization
 
-tensorflow==2.5
+Tensorflow==2.5
