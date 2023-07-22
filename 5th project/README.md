@@ -1,1 +1,10 @@
-"# Detection-of-Cotton-Leaf-Disease" 
+# Detection-of-Cotton-Leaf-Disease 
+
+Requirements : 
+
+              matplotlib
+              numpy
+              notebook
+              tensorflow-addons
+              tensorflow-model-optimization
+              tensorflow==2.5
